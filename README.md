@@ -20,3 +20,9 @@
 		2. 'target': the predicted probability of target being 1
 
 	The corresponding code to reproduce the result csv file should be included as well.
+	
+# Web Svraping Tool in Python
+ftvp.py
+
+# Web Scraping using Scrapy
+Readspider.py
