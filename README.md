@@ -21,7 +21,7 @@
 
 	The corresponding code to reproduce the result csv file should be included as well.
 	
-# Web Svraping Tool in Python
+# Web Scraping Tool in Python
 ftvp.py
 
 # Web Scraping using Scrapy
